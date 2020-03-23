@@ -3,7 +3,7 @@
 
 Accessing this API requires an API key which can be registered for free at https://calendarific.com/signup.
 
-This module is a wrapper around the Calendarific API. You can install the module from the PowerShell Gallery.
+This module is a wrapper around the Calendarific API. You can install the module from the [PowerShell Gallery](https://www.powershellgallery.com/packages/PSCalendarific/1.0.0.0).
 
 ```powershell
 Install-Module -Name PSCalendarific -Force
